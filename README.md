@@ -1,6 +1,6 @@
 # How to Write Reusable Queries in Gatsby
 
-This is a demo project for [_How to Write Reusable Queries in Gatsby_](https://www.codeconcisely.com/blog/how-to-write-reusable-queries-in-gatsby/) article.
+This is a demo project for [_How to Write Reusable Queries in Gatsby_](https://www.codeconcisely.com/posts/how-to-write-reusable-queries-in-gatsby/) article.
 Learn how to use fragments to reuse GraphQL queries in Gatsby.
 
 A fragment is created in `src/fragments.js`.
